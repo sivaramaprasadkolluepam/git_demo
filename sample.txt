@@ -3,3 +3,5 @@ This is second line added from git gui
 
 
 This is to demonstrate git gui& where a seperate window will be opened
+
+hi this is to see in git gui
