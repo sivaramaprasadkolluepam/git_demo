@@ -1,2 +1,5 @@
 Hi this is a sample file for git demo
 This is second line added from git gui
+
+
+This is to demonstrate git gui& where a seperate window will be opened
